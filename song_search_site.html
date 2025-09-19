@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Song Search</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body.dark {
+      background-color: #1a1a1a;
+      color: #f0f0f0;
+    }
+    input {
+      background-color: #2d2d2d;
+      color: #f0f0f0;
+      border: 1px solid #555;
+    }
+    input::placeholder {
+      color: #aaa;
+    }
+  </style>
+</head>
+<body class="dark min-h-screen flex flex-col items-center p-6 transition-colors">
+  <!-- Logo -->
+  <img id="logo" src="logo.png" alt="My Logo" class="w-20 h-20 mb-4 rounded-full shadow"> 
+
+  <h1 class="text-3xl font-bold mb-6">🎵 My Song Search</h1>
+
+  <!-- Search box -->
+  <input id="searchBox" type="text" placeholder="Search for a song..." 
+    class="p-2 rounded w-full max-w-md mb-6">
+
+  <!-- Results -->
+  <ul id="results" class="w-full max-w-md space-y-2"></ul>
+
+  <script>
+    const searchBox = document.getElementById("searchBox");
+    const results = document.getElementById("results");
+    let songs = [];
+
+    function displaySongs(filtered) {
+      results.innerHTML = "";
+      if (filtered.length === 0) {
+        results.innerHTML = '<li class="text-gray-400">No songs found</li>';
+        return;
+      }
+      filtered.forEach(song => {
+        const li = document.createElement("li");
+        li.className = "p-3 bg-gray-800 text-white rounded shadow";
+        li.textContent = `${song.title} — ${song.artist}`;
+        results.appendChild(li);
+      });
+    }
+
+    // Fetch songs from external JSON file
+    fetch("songs.json")
+      .then(response => response.json())
+      .then(data => {
+        songs = data;
+        displaySongs(songs);
+      })
+      .catch(err => {
+        console.error("Failed to load songs.json", err);
+      });
+
+    // Search filter
+    searchBox.addEventListener("input", () => {
+      const query = searchBox.value.toLowerCase();
+      const filtered = songs.filter(song =>
+        song.title.toLowerCase().includes(query) ||
+        song.artist.toLowerCase().includes(query)
+      );
+      displaySongs(filtered);
+    });
+  </script>
+</body>
+</html>
