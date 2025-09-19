@@ -1,12 +1,1990 @@
 [
-  { "title": "Bohemian Rhapsody", "artist": "Queen" },
-  { "title": "Shape of You", "artist": "Ed Sheeran" },
-  { "title": "Blinding Lights", "artist": "The Weeknd" },
-  { "title": "Smells Like Teen Spirit", "artist": "Nirvana" },
-  { "title": "Bad Guy", "artist": "Billie Eilish" },
-  { "title": "Rolling in the Deep", "artist": "Adele" },
-  { "title": "Lose Yourself", "artist": "Eminem" },
-  { "title": "Billie Jean", "artist": "Michael Jackson" },
-  { "title": "Humble", "artist": "Kendrick Lamar" },
-  { "title": "Radioactive", "artist": "Imagine Dragons" }
+  {
+    "title": "California Love",
+    "artist": "2Pac feat. Dr. Dre"
+  },
+  {
+    "title": "Here without you",
+    "artist": "3 Doors Down"
+  },
+  {
+    "title": "Kryptonite",
+    "artist": "3 Doors Down"
+  },
+  {
+    "title": "Take On Me",
+    "artist": "a-ha"
+  },
+  {
+    "title": "Dancing Queen",
+    "artist": "ABBA"
+  },
+  {
+    "title": "Fernando",
+    "artist": "ABBA"
+  },
+  {
+    "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+    "artist": "ABBA"
+  },
+  {
+    "title": "Mamma Mia",
+    "artist": "ABBA"
+  },
+  {
+    "title": "Money Money Money",
+    "artist": "ABBA"
+  },
+  {
+    "title": "Money, Money, Money",
+    "artist": "ABBA"
+  },
+  {
+    "title": "Super Trouper",
+    "artist": "ABBA"
+  },
+  {
+    "title": "Take A Chance On Me",
+    "artist": "ABBA"
+  },
+  {
+    "title": "Thank You For The Music",
+    "artist": "ABBA"
+  },
+  {
+    "title": "The Winner Takes It All",
+    "artist": "ABBA"
+  },
+  {
+    "title": "Waterloo",
+    "artist": "ABBA"
+  },
+  {
+    "title": "The Sign",
+    "artist": "Ace of Base"
+  },
+  {
+    "title": "Hello",
+    "artist": "Adele"
+  },
+  {
+    "title": "Rolling In The Deep",
+    "artist": "Adele"
+  },
+  {
+    "title": "Rolling In The Deep (Studio Footage)",
+    "artist": "Adele"
+  },
+  {
+    "title": "Set Fire To The Rain",
+    "artist": "Adele"
+  },
+  {
+    "title": "Skyfall",
+    "artist": "Adele"
+  },
+  {
+    "title": "Someone Like You",
+    "artist": "Adele"
+  },
+  {
+    "title": "Dream On (Live At Capitol Center)",
+    "artist": "Aerosmith"
+  },
+  {
+    "title": "La Dolce Vita",
+    "artist": "After Dark"
+  },
+  {
+    "title": "Get Jinxed",
+    "artist": "Agnete Kjølsrud"
+  },
+  {
+    "title": "Don’t Matter",
+    "artist": "Akon"
+  },
+  {
+    "title": "Lonely",
+    "artist": "Akon"
+  },
+  {
+    "title": "Smack That",
+    "artist": "Akon feat. Eminem"
+  },
+  {
+    "title": "Beautiful",
+    "artist": "Akon feat. Kardinal Offishall & Colby O’Donis"
+  },
+  {
+    "title": "En Helt Ny Värld",
+    "artist": "Aladdin"
+  },
+  {
+    "title": "Poison",
+    "artist": "Alice Cooper"
+  },
+  {
+    "title": "Dear Maria, count me in",
+    "artist": "All Time Low"
+  },
+  {
+    "title": "American Dad",
+    "artist": "American Dad"
+  },
+  {
+    "title": "Barbie Girl",
+    "artist": "Aqua"
+  },
+  {
+    "title": "Love Me Harder",
+    "artist": "Ariana Grande & The Weeknd"
+  },
+  {
+    "title": "One Last Time",
+    "artist": "Ariana Grande"
+  },
+  {
+    "title": "Eloise",
+    "artist": "Arvingarna"
+  },
+  {
+    "title": "Ooa hela natten",
+    "artist": "Attack"
+  },
+  {
+    "title": "Hey Brother",
+    "artist": "Avicii"
+  },
+  {
+    "title": "The Nights",
+    "artist": "Avicii"
+  },
+  {
+    "title": "Waiting For Love",
+    "artist": "Avicii"
+  },
+  {
+    "title": "Complicated",
+    "artist": "Avril Lavigne"
+  },
+  {
+    "title": "Sk8er Boi",
+    "artist": "Avril Lavigne"
+  },
+  {
+    "title": "I Want It That Way",
+    "artist": "Backstreet Boys"
+  },
+  {
+    "title": "Boten Anna",
+    "artist": "Basshunter"
+  },
+  {
+    "title": "Take My Breath Away",
+    "artist": "Berlin"
+  },
+  {
+    "title": "Ocean Eyes",
+    "artist": "Billie Eilish"
+  },
+  {
+    "title": "Vienna",
+    "artist": "Billy Joel"
+  },
+  {
+    "title": "Wonderful Life",
+    "artist": "Black"
+  },
+  {
+    "title": "I Gotta Feeling",
+    "artist": "Black Eyed Peas"
+  },
+  {
+    "title": "The Time (Dirty Bit)",
+    "artist": "Black Eyed Peas"
+  },
+  {
+    "title": "All the small things",
+    "artist": "Blink 182"
+  },
+  {
+    "title": "I Miss You",
+    "artist": "Blink 182"
+  },
+  {
+    "title": "Knockin’ On Heaven’s Door",
+    "artist": "Bob Dylan"
+  },
+  {
+    "title": "Tangled Up In Blue",
+    "artist": "Bob Dylan"
+  },
+  {
+    "title": "Bed of Roses",
+    "artist": "Bon Jovi"
+  },
+  {
+    "title": "Livin' on a Prayer",
+    "artist": "Bon Jovi"
+  },
+  {
+    "title": "You Give Love A Bad Name",
+    "artist": "Bon Jovi"
+  },
+  {
+    "title": "The diary of Jane",
+    "artist": "Breaking Benjamin"
+  },
+  {
+    "title": "Baby One More Time",
+    "artist": "Britney Spears"
+  },
+  {
+    "title": "Circus",
+    "artist": "Britney Spears"
+  },
+  {
+    "title": "Oops! I did it again",
+    "artist": "Britney Spears"
+  },
+  {
+    "title": "Toxic",
+    "artist": "Britney Spears"
+  },
+  {
+    "title": "Womanizer",
+    "artist": "Britney Spears"
+  },
+  {
+    "title": "…Baby One More Time",
+    "artist": "Britney Spears"
+  },
+  {
+    "title": "Shoreline",
+    "artist": "Broder Daniel"
+  },
+  {
+    "title": "Grenade",
+    "artist": "Bruno Mars"
+  },
+  {
+    "title": "It Will Rain",
+    "artist": "Bruno Mars"
+  },
+  {
+    "title": "Just The Way You Are",
+    "artist": "Bruno Mars"
+  },
+  {
+    "title": "Locked Out Of Heaven",
+    "artist": "Bruno Mars"
+  },
+  {
+    "title": "Marry You",
+    "artist": "Bruno Mars"
+  },
+  {
+    "title": "The Lazy Song",
+    "artist": "Bruno Mars"
+  },
+  {
+    "title": "When I Was Your Man",
+    "artist": "Bruno Mars"
+  },
+  {
+    "title": "Heaven",
+    "artist": "Bryan Adams"
+  },
+  {
+    "title": "Summer of '69",
+    "artist": "Bryan Adams"
+  },
+  {
+    "title": "Jerk It Out",
+    "artist": "Caesars"
+  },
+  {
+    "title": "One kiss",
+    "artist": "Calvin Harris & Dua Lipa"
+  },
+  {
+    "title": "Caramelldansen (Speedy Mix)",
+    "artist": "Caramell"
+  },
+  {
+    "title": "Fångad av en stormvind",
+    "artist": "Carola"
+  },
+  {
+    "title": "Främling",
+    "artist": "Carola Häggkvist"
+  },
+  {
+    "title": "Baddadan",
+    "artist": "Chase & Status and Bou feat. IRah, Flowdan, Trigga & Takura"
+  },
+  {
+    "title": "Forever",
+    "artist": "Chris Brown"
+  },
+  {
+    "title": "Symphony",
+    "artist": "Clean Bandit feat. Zara Larsson"
+  },
+  {
+    "title": "A sky full of stars",
+    "artist": "Coldplay"
+  },
+  {
+    "title": "Adventure Of A Lifetime",
+    "artist": "Coldplay"
+  },
+  {
+    "title": "Clocks",
+    "artist": "Coldplay"
+  },
+  {
+    "title": "Fix You",
+    "artist": "Coldplay"
+  },
+  {
+    "title": "Paradise",
+    "artist": "Coldplay"
+  },
+  {
+    "title": "The Scientist",
+    "artist": "Coldplay"
+  },
+  {
+    "title": "Viva la vida",
+    "artist": "Coldplay"
+  },
+  {
+    "title": "Yellow",
+    "artist": "Coldplay"
+  },
+  {
+    "title": "Princess Of China",
+    "artist": "Coldplay feat. Rihanna"
+  },
+  {
+    "title": "Hymn for the weekend",
+    "artist": "Coldplay ft. Beyoncé"
+  },
+  {
+    "title": "My Universe",
+    "artist": "Coldplay X BTS"
+  },
+  {
+    "title": "A Real Hero",
+    "artist": "College feat. Electric Youth"
+  },
+  {
+    "title": "Fortunate Son",
+    "artist": "Creedence Clearwater Revival"
+  },
+  {
+    "title": "Have You Ever Seen The Rain",
+    "artist": "Creedence Clearwater Revival"
+  },
+  {
+    "title": "Run Through The Jungle",
+    "artist": "Creedence Clearwater Revival"
+  },
+  {
+    "title": "Bye Bye",
+    "artist": "Cro"
+  },
+  {
+    "title": "Einmal um die Welt",
+    "artist": "Cro"
+  },
+  {
+    "title": "Gubben i lådan",
+    "artist": "Daniel Adams-Ray"
+  },
+  {
+    "title": "Out Of Touch",
+    "artist": "Daryl Hall & John Oates"
+  },
+  {
+    "title": "Rich Girl",
+    "artist": "Daryl Hall & John Oates"
+  },
+  {
+    "title": "You Make My Dreams",
+    "artist": "Daryl Hall & John Oates"
+  },
+  {
+    "title": "Life On Mars",
+    "artist": "David Bowie"
+  },
+  {
+    "title": "Titanium",
+    "artist": "David Guetta feat. Sia"
+  },
+  {
+    "title": "This One’s For You",
+    "artist": "David Guetta feat. Zara Larsson"
+  },
+  {
+    "title": "Daylight",
+    "artist": "David Kushner"
+  },
+  {
+    "title": "Havet Är Djupt",
+    "artist": "Den Lilla Sjöjungfrun"
+  },
+  {
+    "title": "Come On Eileen",
+    "artist": "Dexy's Midnight Runners"
+  },
+  {
+    "title": "Coming Home",
+    "artist": "DiddyDirtyMoney feat. Skylar Grey"
+  },
+  {
+    "title": "Money For Nothing",
+    "artist": "Dire Straits"
+  },
+  {
+    "title": "Walk Of Life",
+    "artist": "Dire Straits"
+  },
+  {
+    "title": "Down with the sickness",
+    "artist": "Disturbed"
+  },
+  {
+    "title": "Stricken",
+    "artist": "Disturbed"
+  },
+  {
+    "title": "The Sound Of Silence",
+    "artist": "Disturbed"
+  },
+  {
+    "title": "Let Me Love You",
+    "artist": "DJ Snake feat. Justin Bieber"
+  },
+  {
+    "title": "Var Nöjd Med Allt Som Livet Ger",
+    "artist": "Djungelboken"
+  },
+  {
+    "title": "9 To 5",
+    "artist": "Dolly Parton"
+  },
+  {
+    "title": "Jolene",
+    "artist": "Dolly Parton"
+  },
+  {
+    "title": "American Pie",
+    "artist": "Don McLean"
+  },
+  {
+    "title": "Through The Fire And Flames",
+    "artist": "DragonForce"
+  },
+  {
+    "title": "Hold On, We’re Going Home",
+    "artist": "Drake feat. Majid Jordan"
+  },
+  {
+    "title": "Take Care",
+    "artist": "Drake feat. Rihanna"
+  },
+  {
+    "title": "One Dance",
+    "artist": "Drake feat. Wizkid & Kyla"
+  },
+  {
+    "title": "Vill Ha Dig",
+    "artist": "Drömhus"
+  },
+  {
+    "title": "Be The One",
+    "artist": "Dua Lipa"
+  },
+  {
+    "title": "Dance The Night",
+    "artist": "Dua Lipa"
+  },
+  {
+    "title": "Illusion",
+    "artist": "Dua Lipa"
+  },
+  {
+    "title": "Levitating",
+    "artist": "Dua Lipa"
+  },
+  {
+    "title": "Physical",
+    "artist": "Dua Lipa"
+  },
+  {
+    "title": "Levitating",
+    "artist": "Dua Lipa feat. DaBaby"
+  },
+  {
+    "title": "Hotel California",
+    "artist": "Eagles"
+  },
+  {
+    "title": "Galway Girl",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "title": "Happier",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "title": "I See Fire",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "title": "Perfect",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "title": "Shape Of You",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "title": "Shivers",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "title": "Thinking Out Loud",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "title": "Nmr 1 Player-",
+    "artist": "Einár"
+  },
+  {
+    "title": "Hate Me",
+    "artist": "Ellie Goulding & Juice WRLD"
+  },
+  {
+    "title": "I'm Still Standing",
+    "artist": "Elton John"
+  },
+  {
+    "title": "Rocket Man",
+    "artist": "Elton John"
+  },
+  {
+    "title": "Jailhouse Rock",
+    "artist": "Elvis Presley"
+  },
+  {
+    "title": "The Monster",
+    "artist": "Eminem & Rihanna"
+  },
+  {
+    "title": "Lose yourself",
+    "artist": "Eminem"
+  },
+  {
+    "title": "Mockingbird",
+    "artist": "Eminem"
+  },
+  {
+    "title": "Not afraid",
+    "artist": "Eminem"
+  },
+  {
+    "title": "When I’m Gone",
+    "artist": "Eminem"
+  },
+  {
+    "title": "Without Me",
+    "artist": "Eminem"
+  },
+  {
+    "title": "Stan",
+    "artist": "Eminem feat. Dido"
+  },
+  {
+    "title": "Stan [DUET]",
+    "artist": "Eminem feat. Dido"
+  },
+  {
+    "title": "Godzilla",
+    "artist": "Eminem feat. Juice WRLD"
+  },
+  {
+    "title": "Love The Way You Lie",
+    "artist": "Eminem feat. Rihanna"
+  },
+  {
+    "title": "The Monster",
+    "artist": "Eminem feat. Rihanna"
+  },
+  {
+    "title": "Manboy",
+    "artist": "Eric Saade"
+  },
+  {
+    "title": "Popular (Sweden)",
+    "artist": "Eric Saade"
+  },
+  {
+    "title": "Final Countdown",
+    "artist": "Europe"
+  },
+  {
+    "title": "Open Your Heart (13026)",
+    "artist": "Europe"
+  },
+  {
+    "title": "Trap Queen",
+    "artist": "Fetty Wap"
+  },
+  {
+    "title": "Everywhere",
+    "artist": "Fleetwood Mac"
+  },
+  {
+    "title": "Go Your Own Way",
+    "artist": "Fleetwood Mac"
+  },
+  {
+    "title": "The Chain",
+    "artist": "Fleetwood Mac"
+  },
+  {
+    "title": "Best Of You",
+    "artist": "Foo Fighters"
+  },
+  {
+    "title": "Everlong",
+    "artist": "Foo Fighters"
+  },
+  {
+    "title": "My hero",
+    "artist": "Foo Fighters"
+  },
+  {
+    "title": "Fantasi",
+    "artist": "Freestyle"
+  },
+  {
+    "title": "Mary On A Cross",
+    "artist": "Ghost"
+  },
+  {
+    "title": "Iris",
+    "artist": "Goo Goo Dolls"
+  },
+  {
+    "title": "Clint Eastwood",
+    "artist": "Gorillaz"
+  },
+  {
+    "title": "Feel Good Inc",
+    "artist": "Gorillaz"
+  },
+  {
+    "title": "Somebody That I Used To Know",
+    "artist": "Gotye & Kimbra"
+  },
+  {
+    "title": "American Idiot",
+    "artist": "Green Day"
+  },
+  {
+    "title": "Boulevard of Broken Dreams",
+    "artist": "Green Day"
+  },
+  {
+    "title": "Knockin’ On Heaven’s Door",
+    "artist": "Guns N’ Roses"
+  },
+  {
+    "title": "The Sweet Escape",
+    "artist": "Gwen Stefani Feat Akon"
+  },
+  {
+    "title": "Maneater",
+    "artist": "Hall & Oates"
+  },
+  {
+    "title": "Diggi-Loo Diggi-Ley",
+    "artist": "Herreys"
+  },
+  {
+    "title": "Highwayman",
+    "artist": "Hoffmaestro & Chraa"
+  },
+  {
+    "title": "Flickorna i Båstad",
+    "artist": "Hov1"
+  },
+  {
+    "title": "Hon Dansar Vidare i Livet",
+    "artist": "Hov1"
+  },
+  {
+    "title": "Lilla B",
+    "artist": "Hov1"
+  },
+  {
+    "title": "Räddare i nöden",
+    "artist": "Hov1"
+  },
+  {
+    "title": "Take Me To Church",
+    "artist": "Hozier"
+  },
+  {
+    "title": "Det kommer aldrig va över för mig",
+    "artist": "Håkan Hellström"
+  },
+  {
+    "title": "Känn ingen sorg för mig Göteborg",
+    "artist": "Håkan Hellström"
+  },
+  {
+    "title": "Demons",
+    "artist": "Imagine Dragons"
+  },
+  {
+    "title": "Enemy (Arcane opening 2)",
+    "artist": "Imagine dragons"
+  },
+  {
+    "title": "On Top Of The World",
+    "artist": "Imagine Dragons"
+  },
+  {
+    "title": "Radioactive",
+    "artist": "Imagine Dragons"
+  },
+  {
+    "title": "Enemy",
+    "artist": "Imagine Dragons x J.I.D."
+  },
+  {
+    "title": "Enemy",
+    "artist": "Imagine Dragons x JID"
+  },
+  {
+    "title": "Replay (1)",
+    "artist": "Iyaz"
+  },
+  {
+    "title": "Say You Won’t Let Go",
+    "artist": "James Arthur"
+  },
+  {
+    "title": "I Hope It Rains (25916)",
+    "artist": "Jana Kramer"
+  },
+  {
+    "title": "Run This Town",
+    "artist": "Jay-Z feat. Rihanna & Kanye West"
+  },
+  {
+    "title": "Vi kan gunga",
+    "artist": "Jimmy Jansson"
+  },
+  {
+    "title": "Take Me Home, Country Roads (1)",
+    "artist": "John Denver"
+  },
+  {
+    "title": "All Of Me",
+    "artist": "John Legend"
+  },
+  {
+    "title": "Imagine",
+    "artist": "John Lennon & The Plastic Ono Band"
+  },
+  {
+    "title": "Love Me Again",
+    "artist": "John Newman"
+  },
+  {
+    "title": "Lucid Dreams (Forget Me)",
+    "artist": "Juice WRLD"
+  },
+  {
+    "title": "As Long As You Love Me",
+    "artist": "Justin Bieber & Big Sean"
+  },
+  {
+    "title": "Never Say Never",
+    "artist": "Justin Bieber & Jaden Smith"
+  },
+  {
+    "title": "Baby",
+    "artist": "Justin Bieber & Ludacris"
+  },
+  {
+    "title": "Beauty And A Beat",
+    "artist": "Justin Bieber & Nicki Minaj"
+  },
+  {
+    "title": "Boyfriend",
+    "artist": "Justin Bieber"
+  },
+  {
+    "title": "Love Yourself",
+    "artist": "Justin Bieber"
+  },
+  {
+    "title": "Sorry",
+    "artist": "Justin Bieber"
+  },
+  {
+    "title": "What do you mean",
+    "artist": "Justin Bieber"
+  },
+  {
+    "title": "Baby",
+    "artist": "Justin Bieber feat. Ludacris"
+  },
+  {
+    "title": "Cry Me A River",
+    "artist": "Justin Timberlake"
+  },
+  {
+    "title": "Mirrors",
+    "artist": "Justin Timberlake"
+  },
+  {
+    "title": "Summer Love",
+    "artist": "Justin Timberlake"
+  },
+  {
+    "title": "What Goes Around… Comes Around",
+    "artist": "Justin Timberlake"
+  },
+  {
+    "title": "My Love",
+    "artist": "Justin Timberlake feat. T.I."
+  },
+  {
+    "title": "Bara bada bastu (ESC 2025 Sweden)",
+    "artist": "KAJ"
+  },
+  {
+    "title": "Heartless",
+    "artist": "Kanye West"
+  },
+  {
+    "title": "All Of The Lights",
+    "artist": "Kanye West feat. Various Artists"
+  },
+  {
+    "title": "Walking On Sunshine",
+    "artist": "Katrina And The Waves"
+  },
+  {
+    "title": "Birthday",
+    "artist": "Katy Perry"
+  },
+  {
+    "title": "Dark Horse",
+    "artist": "Katy Perry"
+  },
+  {
+    "title": "Firework",
+    "artist": "Katy Perry"
+  },
+  {
+    "title": "Hot N Cold",
+    "artist": "Katy Perry"
+  },
+  {
+    "title": "I Kissed A Girl",
+    "artist": "Katy Perry"
+  },
+  {
+    "title": "Last Friday Night",
+    "artist": "Katy Perry"
+  },
+  {
+    "title": "Lost (6961)",
+    "artist": "Katy Perry"
+  },
+  {
+    "title": "Part Of Me",
+    "artist": "Katy Perry"
+  },
+  {
+    "title": "Roar",
+    "artist": "Katy Perry"
+  },
+  {
+    "title": "Teenage Dream",
+    "artist": "Katy Perry"
+  },
+  {
+    "title": "This Is How We Do",
+    "artist": "Katy Perry"
+  },
+  {
+    "title": "Unconditionally",
+    "artist": "Katy Perry"
+  },
+  {
+    "title": "Wide Awake",
+    "artist": "Katy Perry"
+  },
+  {
+    "title": "E.T. (Remix)",
+    "artist": "Katy Perry feat. Kanye West"
+  },
+  {
+    "title": "Bon Appétit",
+    "artist": "Katy Perry feat. Migos"
+  },
+  {
+    "title": "Chained to the rhythm",
+    "artist": "Katy Perry feat. Skip Marley"
+  },
+  {
+    "title": "California Gurls",
+    "artist": "Katy Perry feat. Snoop Dogg"
+  },
+  {
+    "title": "Nightcall",
+    "artist": "Kavinsky feat. LoveFoxxx"
+  },
+  {
+    "title": "TiK ToK",
+    "artist": "Ke$ha"
+  },
+  {
+    "title": "Somewhere Only We Know",
+    "artist": "Keane"
+  },
+  {
+    "title": "Heartbeat Song",
+    "artist": "Kelly Clarkson"
+  },
+  {
+    "title": "Since U Been Gone",
+    "artist": "Kelly Clarkson"
+  },
+  {
+    "title": "Not Like Us",
+    "artist": "Kendrick Lamar"
+  },
+  {
+    "title": "La Belle Epoque",
+    "artist": "Kent"
+  },
+  {
+    "title": "Pärlor",
+    "artist": "Kent"
+  },
+  {
+    "title": "Vinternoll2",
+    "artist": "Kent"
+  },
+  {
+    "title": "Knock You Down",
+    "artist": "Keri Hilson feat. Kanye West & Ne-Yo"
+  },
+  {
+    "title": "Bra Vibrationer",
+    "artist": "Kikki Danielsson"
+  },
+  {
+    "title": "Cha Cha Cha",
+    "artist": "Käärijä"
+  },
+  {
+    "title": "Abracadabra",
+    "artist": "Lady Gaga"
+  },
+  {
+    "title": "Alejandro",
+    "artist": "Lady GaGa"
+  },
+  {
+    "title": "Alejandro (Album Version)",
+    "artist": "Lady Gaga"
+  },
+  {
+    "title": "Always remember us this way",
+    "artist": "Lady Gaga"
+  },
+  {
+    "title": "Bad Romance",
+    "artist": "Lady GaGa"
+  },
+  {
+    "title": "Bloody Mary",
+    "artist": "Lady Gaga"
+  },
+  {
+    "title": "Born this way",
+    "artist": "Lady GaGa"
+  },
+  {
+    "title": "Paparazzi",
+    "artist": "Lady Gaga"
+  },
+  {
+    "title": "Telephone",
+    "artist": "Lady Gaga feat. Beyoncé"
+  },
+  {
+    "title": "Just Dance",
+    "artist": "Lady Gaga feat. Colby O’Donis"
+  },
+  {
+    "title": "Goliat",
+    "artist": "Laleh"
+  },
+  {
+    "title": "Satellite (ESC 2010 Germany Live)",
+    "artist": "Lena"
+  },
+  {
+    "title": "American Woman",
+    "artist": "Lenny Kravitz"
+  },
+  {
+    "title": "I See You",
+    "artist": "Leona Lewis"
+  },
+  {
+    "title": "Bruises",
+    "artist": "Lewis Capaldi"
+  },
+  {
+    "title": "Someone You Loved",
+    "artist": "Lewis Capaldi"
+  },
+  {
+    "title": "Earth",
+    "artist": "Lil Dicky"
+  },
+  {
+    "title": "Poland",
+    "artist": "Lil Yachty"
+  },
+  {
+    "title": "Jag Ljuger Så Bra",
+    "artist": "Linda Bengtzing"
+  },
+  {
+    "title": "Crawling",
+    "artist": "Linkin Park"
+  },
+  {
+    "title": "Heavy Is The Crown",
+    "artist": "Linkin Park"
+  },
+  {
+    "title": "In The End",
+    "artist": "Linkin Park"
+  },
+  {
+    "title": "Leave Out All The Rest (4691)",
+    "artist": "Linkin Park"
+  },
+  {
+    "title": "Numb",
+    "artist": "Linkin Park"
+  },
+  {
+    "title": "The Emptiness Machine",
+    "artist": "Linkin Park"
+  },
+  {
+    "title": "What I’ve Done",
+    "artist": "Linkin Park"
+  },
+  {
+    "title": "Wretches And Kings",
+    "artist": "Linkin Park"
+  },
+  {
+    "title": "7 Years",
+    "artist": "Lukas Graham"
+  },
+  {
+    "title": "Love Someone",
+    "artist": "Lukas Graham"
+  },
+  {
+    "title": "Hung Up",
+    "artist": "Madonna"
+  },
+  {
+    "title": "Rude",
+    "artist": "MAGIC!"
+  },
+  {
+    "title": "Maps",
+    "artist": "Maroon 5"
+  },
+  {
+    "title": "Memories",
+    "artist": "Maroon 5"
+  },
+  {
+    "title": "She Will Be Loved",
+    "artist": "Maroon 5"
+  },
+  {
+    "title": "What Lovers Do",
+    "artist": "Maroon 5 feat. SZA"
+  },
+  {
+    "title": "Payphone (Lyric Video)",
+    "artist": "Maroon 5 feat. Wiz Khalifa"
+  },
+  {
+    "title": "U Can't Touch This",
+    "artist": "MC Hammer"
+  },
+  {
+    "title": "Enter Sandman",
+    "artist": "Metallica"
+  },
+  {
+    "title": "Metal Militia",
+    "artist": "Metallica"
+  },
+  {
+    "title": "Nothing Else Matters",
+    "artist": "Metallica"
+  },
+  {
+    "title": "Wherever I May Roam",
+    "artist": "Metallica"
+  },
+  {
+    "title": "Annihilate",
+    "artist": "Metro Boomin, Swae Lee, Lil Wayne & Offset"
+  },
+  {
+    "title": "Bad",
+    "artist": "Michael Jackson"
+  },
+  {
+    "title": "Beat It",
+    "artist": "Michael Jackson"
+  },
+  {
+    "title": "Billie Jean",
+    "artist": "Michael Jackson"
+  },
+  {
+    "title": "Man In The Mirror",
+    "artist": "Michael Jackson"
+  },
+  {
+    "title": "Smooth Criminal",
+    "artist": "Michael Jackson"
+  },
+  {
+    "title": "Smooth Criminal (Single Version)",
+    "artist": "Michael Jackson"
+  },
+  {
+    "title": "They don't care about us",
+    "artist": "Michael Jackson"
+  },
+  {
+    "title": "Thriller",
+    "artist": "Michael Jackson"
+  },
+  {
+    "title": "You Rock My World",
+    "artist": "Michael Jackson"
+  },
+  {
+    "title": "Spin The Wheel",
+    "artist": "Mick Wingert"
+  },
+  {
+    "title": "Party In The U.S.A",
+    "artist": "Miley Cyrus"
+  },
+  {
+    "title": "Used To Be Young [DUET] (28138)",
+    "artist": "Miley Cyrus"
+  },
+  {
+    "title": "Wrecking Ball",
+    "artist": "Miley Cyrus"
+  },
+  {
+    "title": "Cheri, Cheri Lady",
+    "artist": "Modern Talking"
+  },
+  {
+    "title": "Bumpy Ride",
+    "artist": "Mohombi"
+  },
+  {
+    "title": "Supermassive Black Hole",
+    "artist": "Muse"
+  },
+  {
+    "title": "Welcome to the black parade",
+    "artist": "My Chemical Romance"
+  },
+  {
+    "title": "Cara mia",
+    "artist": "Måns Zelmerlöw"
+  },
+  {
+    "title": "Håll Om Mig",
+    "artist": "Nanne Grönvall"
+  },
+  {
+    "title": "Unwritten",
+    "artist": "Natasha Bedingfield"
+  },
+  {
+    "title": "Closer",
+    "artist": "Ne-Yo"
+  },
+  {
+    "title": "So Sick (1)",
+    "artist": "Ne-Yo"
+  },
+  {
+    "title": "99 Luftballons",
+    "artist": "Nena"
+  },
+  {
+    "title": "How You Remind Me",
+    "artist": "Nickelback"
+  },
+  {
+    "title": "Rockstar",
+    "artist": "Nickelback"
+  },
+  {
+    "title": "Come As You Are (MTV Unplugged)",
+    "artist": "Nirvana"
+  },
+  {
+    "title": "Heart-Shaped Box",
+    "artist": "Nirvana"
+  },
+  {
+    "title": "Smells Like Teen Spirit",
+    "artist": "Nirvana"
+  },
+  {
+    "title": "Something In The Way",
+    "artist": "Nirvana"
+  },
+  {
+    "title": "Don't look back in anger",
+    "artist": "Oasis"
+  },
+  {
+    "title": "Don’t Look Back In Anger",
+    "artist": "Oasis"
+  },
+  {
+    "title": "I'm Outta Time",
+    "artist": "Oasis"
+  },
+  {
+    "title": "Live Forever",
+    "artist": "Oasis"
+  },
+  {
+    "title": "Wonderwall",
+    "artist": "Oasis"
+  },
+  {
+    "title": "drivers license",
+    "artist": "Olivia Rodrigo"
+  },
+  {
+    "title": "good 4 u",
+    "artist": "Olivia Rodrigo"
+  },
+  {
+    "title": "traitor",
+    "artist": "Olivia Rodrigo"
+  },
+  {
+    "title": "Live While We're Young",
+    "artist": "One Direction"
+  },
+  {
+    "title": "One Way Or Another (Teenage Kicks)",
+    "artist": "One Direction"
+  },
+  {
+    "title": "Story Of My Life",
+    "artist": "One Direction"
+  },
+  {
+    "title": "What Makes You Beautiful",
+    "artist": "One Direction"
+  },
+  {
+    "title": "Apologize",
+    "artist": "OneRepublic"
+  },
+  {
+    "title": "Hey Ya!",
+    "artist": "OutKast"
+  },
+  {
+    "title": "Fireflies",
+    "artist": "Owl City"
+  },
+  {
+    "title": "Raise your glass",
+    "artist": "P!nk"
+  },
+  {
+    "title": "Last Resort",
+    "artist": "Papa Roach"
+  },
+  {
+    "title": "Ain’t It Fun",
+    "artist": "Paramore"
+  },
+  {
+    "title": "Hard Times",
+    "artist": "Paramore"
+  },
+  {
+    "title": "Misery Business",
+    "artist": "Paramore"
+  },
+  {
+    "title": "Still Into You",
+    "artist": "Paramore"
+  },
+  {
+    "title": "Still Into You (1)",
+    "artist": "Paramore"
+  },
+  {
+    "title": "Let Her Go",
+    "artist": "Passenger"
+  },
+  {
+    "title": "Even Flow",
+    "artist": "Pearl Jam"
+  },
+  {
+    "title": "Händerna mot himlen",
+    "artist": "Petra Marklund"
+  },
+  {
+    "title": "Another Day In Paradise",
+    "artist": "Phil Collins"
+  },
+  {
+    "title": "Sunflower",
+    "artist": "Post Malone & Swae Lee"
+  },
+  {
+    "title": "Better Now",
+    "artist": "Post Malone"
+  },
+  {
+    "title": "Chemical",
+    "artist": "Post Malone"
+  },
+  {
+    "title": "Circles",
+    "artist": "Post Malone"
+  },
+  {
+    "title": "Rockstar",
+    "artist": "Post Malone feat. 21 Savage"
+  },
+  {
+    "title": "Congratulations",
+    "artist": "Post Malone feat. Quavo"
+  },
+  {
+    "title": "Sunflower",
+    "artist": "Post Malone, Swae Lee"
+  },
+  {
+    "title": "Common People",
+    "artist": "Pulp"
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen"
+  },
+  {
+    "title": "Bohemian Rhapsody (1)",
+    "artist": "Queen"
+  },
+  {
+    "title": "Don't Stop Me Now",
+    "artist": "Queen"
+  },
+  {
+    "title": "I Want to Break Free",
+    "artist": "Queen"
+  },
+  {
+    "title": "Radio Ga Ga",
+    "artist": "Queen"
+  },
+  {
+    "title": "The Show Must Go On",
+    "artist": "Queen"
+  },
+  {
+    "title": "The Show Must Go On (1)",
+    "artist": "Queen"
+  },
+  {
+    "title": "We Will Rock You",
+    "artist": "Queen"
+  },
+  {
+    "title": "Creep",
+    "artist": "Radiohead"
+  },
+  {
+    "title": "Life Is A Highway",
+    "artist": "Rascal Flatts"
+  },
+  {
+    "title": "Californication",
+    "artist": "Red Hot Chili Peppers"
+  },
+  {
+    "title": "Can’t Stop",
+    "artist": "Red Hot Chili Peppers"
+  },
+  {
+    "title": "Under The Bridge",
+    "artist": "Red Hot Chili Peppers"
+  },
+  {
+    "title": "Diamonds",
+    "artist": "Rihanna"
+  },
+  {
+    "title": "Disturbia",
+    "artist": "Rihanna"
+  },
+  {
+    "title": "Don’t Stop The Music",
+    "artist": "Rihanna"
+  },
+  {
+    "title": "Kiss It Better",
+    "artist": "Rihanna"
+  },
+  {
+    "title": "S&M",
+    "artist": "Rihanna"
+  },
+  {
+    "title": "Te amo",
+    "artist": "Rihanna"
+  },
+  {
+    "title": "Unfaithful",
+    "artist": "Rihanna"
+  },
+  {
+    "title": "Love The Way You Lie (Part II)",
+    "artist": "Rihanna feat. Eminem"
+  },
+  {
+    "title": "Umbrella",
+    "artist": "Rihanna feat. Jay-Z"
+  },
+  {
+    "title": "Rehab",
+    "artist": "Rihanna feat. Justin Timberlake"
+  },
+  {
+    "title": "Hate That I Love You",
+    "artist": "Rihanna feat. Ne-Yo"
+  },
+  {
+    "title": "FourFiveSeconds",
+    "artist": "Rihanna, Kanye West & Paul McCartney"
+  },
+  {
+    "title": "Dancing On My Own",
+    "artist": "Robyn"
+  },
+  {
+    "title": "Fading Like A Flower (Every Time You Leave)",
+    "artist": "Roxette"
+  },
+  {
+    "title": "It Must Have Been Love",
+    "artist": "Roxette"
+  },
+  {
+    "title": "Listen To Your Heart",
+    "artist": "Roxette"
+  },
+  {
+    "title": "I'm just Ken",
+    "artist": "Ryan Gosling"
+  },
+  {
+    "title": "Espresso",
+    "artist": "Sabrina Carpenter"
+  },
+  {
+    "title": "I’m Not The Only One",
+    "artist": "Sam Smith"
+  },
+  {
+    "title": "Stay With Me",
+    "artist": "Sam Smith"
+  },
+  {
+    "title": "Too Good At Goodbyes",
+    "artist": "Sam Smith"
+  },
+  {
+    "title": "Writing’s On The Wall",
+    "artist": "Sam Smith"
+  },
+  {
+    "title": "Kiss From A Rose",
+    "artist": "Seal"
+  },
+  {
+    "title": "No Lie",
+    "artist": "Sean Paul & Dua Lipa"
+  },
+  {
+    "title": "Broken",
+    "artist": "Seether feat. Amy Lee"
+  },
+  {
+    "title": "Can't Remember to Forget You",
+    "artist": "Shakira & Rihanna"
+  },
+  {
+    "title": "Whenever wherever",
+    "artist": "Shakira"
+  },
+  {
+    "title": "Hips Don’t Lie",
+    "artist": "Shakira feat. Wyclef Jean"
+  },
+  {
+    "title": "Waka Waka (This Time for Africa)",
+    "artist": "Shakira ft. Freshlyground"
+  },
+  {
+    "title": "Mercy",
+    "artist": "Shawn Mendes"
+  },
+  {
+    "title": "Stitches",
+    "artist": "Shawn Mendes"
+  },
+  {
+    "title": "Chandelier",
+    "artist": "Sia"
+  },
+  {
+    "title": "Unstoppable",
+    "artist": "Sia"
+  },
+  {
+    "title": "Bruno Mars & Anderson .Paak - Smokin Out The Window",
+    "artist": "Silk Sonic"
+  },
+  {
+    "title": "Mrs. Robinson (1)",
+    "artist": "Simon & Garfunkel"
+  },
+  {
+    "title": "Tainted Love",
+    "artist": "Soft Cell"
+  },
+  {
+    "title": "Murder On The Dancefloor",
+    "artist": "Sophie Ellis-Bextor"
+  },
+  {
+    "title": "Kiss Me Thru The Phone",
+    "artist": "Soulja Boy Tell Em feat. Sammie"
+  },
+  {
+    "title": "Wannabe",
+    "artist": "Spice Girls"
+  },
+  {
+    "title": "Two Princes",
+    "artist": "Spin Doctors"
+  },
+  {
+    "title": "Fields Of Gold",
+    "artist": "Sting"
+  },
+  {
+    "title": "Shape Of My Heart",
+    "artist": "Sting"
+  },
+  {
+    "title": "Alors on danse",
+    "artist": "Stromae"
+  },
+  {
+    "title": "Ma Meilleure Ennemie",
+    "artist": "Stromae, Pomme"
+  },
+  {
+    "title": "Dover-Calais",
+    "artist": "Style"
+  },
+  {
+    "title": "Fat Lip",
+    "artist": "Sum 41"
+  },
+  {
+    "title": "Pieces",
+    "artist": "Sum 41"
+  },
+  {
+    "title": "Still waiting",
+    "artist": "Sum 41"
+  },
+  {
+    "title": "With Me",
+    "artist": "Sum 41"
+  },
+  {
+    "title": "Eye Of The Tiger",
+    "artist": "Survivor"
+  },
+  {
+    "title": "Aerials",
+    "artist": "System of a Down"
+  },
+  {
+    "title": "Chop Suey!",
+    "artist": "System of a Down"
+  },
+  {
+    "title": "Toxicity",
+    "artist": "System of a Down"
+  },
+  {
+    "title": "Dear John",
+    "artist": "Taylor Swift"
+  },
+  {
+    "title": "I Knew You Were Trouble (14974)",
+    "artist": "Taylor Swift"
+  },
+  {
+    "title": "Love Story",
+    "artist": "Taylor Swift"
+  },
+  {
+    "title": "Shake It Off",
+    "artist": "Taylor Swift"
+  },
+  {
+    "title": "Everybody Wants To Rule The World",
+    "artist": "Tears For Fears"
+  },
+  {
+    "title": "Satellit (ESC 1979 Sweden)",
+    "artist": "Ted Gärdestad"
+  },
+  {
+    "title": "Sol, vind och vatten",
+    "artist": "Ted Gärdestad"
+  },
+  {
+    "title": "The House Of The Rising Sun",
+    "artist": "The Animals"
+  },
+  {
+    "title": "Here Comes The Sun",
+    "artist": "The Beatles"
+  },
+  {
+    "title": "Let It Be",
+    "artist": "The Beatles"
+  },
+  {
+    "title": "Yesterday",
+    "artist": "The Beatles"
+  },
+  {
+    "title": "Where Is The Love",
+    "artist": "The Black Eyed Peas"
+  },
+  {
+    "title": "Lovefool",
+    "artist": "The Cardigans"
+  },
+  {
+    "title": "Something Just Like This",
+    "artist": "The Chainsmokers ft. Coldplay"
+  },
+  {
+    "title": "Zombie",
+    "artist": "The Cranberries"
+  },
+  {
+    "title": "Friday I’m In Love",
+    "artist": "The Cure"
+  },
+  {
+    "title": "Just Like Heaven",
+    "artist": "The Cure"
+  },
+  {
+    "title": "Hotel California",
+    "artist": "The Eagles"
+  },
+  {
+    "title": "Chelsea Dagger",
+    "artist": "The Fratellis"
+  },
+  {
+    "title": "Stay",
+    "artist": "The Kid Laroi & Justin Bieber"
+  },
+  {
+    "title": "Stay",
+    "artist": "The Kid LAROI feat. Justin Bieber"
+  },
+  {
+    "title": "Mr. Brightside",
+    "artist": "The Killers"
+  },
+  {
+    "title": "Somebody Told Me",
+    "artist": "The Killers"
+  },
+  {
+    "title": "Naive",
+    "artist": "The Kooks"
+  },
+  {
+    "title": "I Just Had Sex",
+    "artist": "The Lonely Island feat. Akon"
+  },
+  {
+    "title": "Finest Girl (Bin Laden Song)",
+    "artist": "The Lonely Island feat. Connor4real"
+  },
+  {
+    "title": "Motherlover",
+    "artist": "The Lonely Island feat. Justin Timberlake"
+  },
+  {
+    "title": "Jack Sparrow",
+    "artist": "The Lonely Island feat. Michael Bolton"
+  },
+  {
+    "title": "Paint It, Black",
+    "artist": "The Rolling Stones"
+  },
+  {
+    "title": "There Is A Light That Never Goes Out",
+    "artist": "The Smiths"
+  },
+  {
+    "title": "1251",
+    "artist": "The Strokes"
+  },
+  {
+    "title": "Hard to Explain",
+    "artist": "The Strokes"
+  },
+  {
+    "title": "Reptilia",
+    "artist": "The Strokes"
+  },
+  {
+    "title": "The Adults Are Talking",
+    "artist": "The Strokes"
+  },
+  {
+    "title": "Bitter Sweet Symphony",
+    "artist": "The Verve"
+  },
+  {
+    "title": "Blinding Lights",
+    "artist": "The Weeknd"
+  },
+  {
+    "title": "Can't Feel My Face",
+    "artist": "The Weeknd"
+  },
+  {
+    "title": "Dancing In The Flames",
+    "artist": "The Weeknd"
+  },
+  {
+    "title": "In Your Eyes",
+    "artist": "The Weeknd"
+  },
+  {
+    "title": "Out of Time",
+    "artist": "The Weeknd"
+  },
+  {
+    "title": "Save your tears",
+    "artist": "The Weeknd"
+  },
+  {
+    "title": "The Hills",
+    "artist": "The Weeknd"
+  },
+  {
+    "title": "Starboy",
+    "artist": "The Weeknd ft. Daft Punk"
+  },
+  {
+    "title": "Slå mig hårt i ansiktet",
+    "artist": "Thomas Stenström"
+  },
+  {
+    "title": "I Hate Everything About You",
+    "artist": "Three Days Grace"
+  },
+  {
+    "title": "Never Too Late",
+    "artist": "Three Days Grace"
+  },
+  {
+    "title": "Tandtråd",
+    "artist": "Tjuvjakt"
+  },
+  {
+    "title": "Another Love",
+    "artist": "Tom Odell"
+  },
+  {
+    "title": "Africa",
+    "artist": "Toto"
+  },
+  {
+    "title": "Hold The Line",
+    "artist": "Toto"
+  },
+  {
+    "title": "Rosanna",
+    "artist": "Toto"
+  },
+  {
+    "title": "Fast Car",
+    "artist": "Tracy Chapman"
+  },
+  {
+    "title": "Goosebumps",
+    "artist": "Travis Scott feat. HVME"
+  },
+  {
+    "title": "Chlorine",
+    "artist": "twenty øne piløts"
+  },
+  {
+    "title": "Heathens",
+    "artist": "twenty øne piløts"
+  },
+  {
+    "title": "Next Semester",
+    "artist": "twenty øne piløts"
+  },
+  {
+    "title": "The Line",
+    "artist": "twenty øne piløts"
+  },
+  {
+    "title": "What You Know",
+    "artist": "Two Door Cinema Club"
+  },
+  {
+    "title": "Yeah",
+    "artist": "Usher feat. Lil’ Jon & Ludacris"
+  },
+  {
+    "title": "DJ Got Us Fallin’ In Love",
+    "artist": "Usher feat. Pitbull"
+  },
+  {
+    "title": "Hela huset",
+    "artist": "Veronica Maggio & Håkan Hellström"
+  },
+  {
+    "title": "Jag kommer",
+    "artist": "Veronica Maggio"
+  },
+  {
+    "title": "Satan i gatan",
+    "artist": "Veronica Maggio"
+  },
+  {
+    "title": "Sergels torg",
+    "artist": "Veronica Maggio"
+  },
+  {
+    "title": "Woodpeckers from space",
+    "artist": "Video Kids"
+  },
+  {
+    "title": "Low Rider",
+    "artist": "WAR"
+  },
+  {
+    "title": "Wake Me Up Before You Go-Go",
+    "artist": "Wham"
+  },
+  {
+    "title": "Teenage Dirtbag",
+    "artist": "Wheatus"
+  },
+  {
+    "title": "How will I know",
+    "artist": "Whitney Houston"
+  },
+  {
+    "title": "I Wanna Dance With Somebody",
+    "artist": "Whitney Houston"
+  },
+  {
+    "title": "I Will Always Love You",
+    "artist": "Whitney Houston"
+  },
+  {
+    "title": "Never Forget You",
+    "artist": "Zara Larsson & MNEK"
+  },
+  {
+    "title": "Can’t Tame Her",
+    "artist": "Zara Larsson"
+  },
+  {
+    "title": "Lush Life",
+    "artist": "Zara Larsson"
+  },
+  {
+    "title": "Lush Life (Alternate Video)",
+    "artist": "Zara Larsson"
+  },
+  {
+    "title": "Uncover",
+    "artist": "Zara Larsson"
+  }
 ]
